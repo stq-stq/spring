@@ -4,11 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbb782c1-af6d-4239-9a26-b7a776c650da" name="Changes" comment="" />
+    <list default="true" id="fbb782c1-af6d-4239-9a26-b7a776c650da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/src/main/java/cn/itcast/config/CommonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/src/main/java/cn/itcast/pojo/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/src/main/java/cn/itcast/pojo/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/classes/cn/itcast/config/CommonConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/classes/cn/itcast/pojo/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/classes/cn/itcast/pojo/Province.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/common-pojo-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/common-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Bean注册资料/02_Bean注册资料/安装jar包到maven本地仓库脚本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mybatis/src/main/java/com/example/springbootmybatis/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mybatis/src/main/java/com/example/springbootmybatis/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mybatis/src/main/java/com/example/springbootmybatis/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mybatis/src/main/java/com/example/springbootmybatis/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-register/src/main/java/com/example/anno/EnableCommonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-register/src/main/java/com/example/config/CommonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-register/src/main/java/com/example/config/CommonImportSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-register/src/main/resources/common.imports" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-quickstart/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-register/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-register/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-register/src/main/java/com/example/springbootregister/SpringbootRegisterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-register/src/main/java/com/example/springbootregister/SpringbootRegisterApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="tq77r285" />
@@ -35,6 +76,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2lyg4NJWSxCTnzz6Tg6yJR2yxr3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +86,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SpringbootMybatisApplication.executor": "Run",
+    "Spring Boot.SpringbootRegisterApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -57,6 +109,11 @@
     "run.configurations.included.in.services": "true",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws"
+    ]
   }
 }]]></component>
   <component name="RunDashboard">
@@ -68,7 +125,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootMybatisApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootRegisterApplication">
+    <configuration name="SpringbbotConfigFileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springbbot-config-file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbbotconfigfile.SpringbbotConfigFileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootAutoConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot-auto-config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootautoconfig.SpringbootAutoConfigApplication" />
@@ -124,10 +188,16 @@
       <workItem from="1726157546535" duration="242000" />
       <workItem from="1726157992219" duration="379000" />
       <workItem from="1726158505472" duration="644000" />
+      <workItem from="1726210781892" duration="602000" />
+      <workItem from="1726216028932" duration="8327000" />
+      <workItem from="1726232594757" duration="10279000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
